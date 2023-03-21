@@ -2,3 +2,6 @@ tgcrypto
 pyrogram==1.2.9
 pytube
 requests
+flask==2.2.2
+gunicorn==20.1.0
+aiohttp
